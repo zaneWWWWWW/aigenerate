@@ -1,0 +1,6 @@
+.env
+node_modules/
+dist/
+测试/
+示例/
+历史名人立绘/
